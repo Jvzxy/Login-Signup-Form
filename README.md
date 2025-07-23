@@ -1,4 +1,8 @@
 # Login-Signup-Form
 
 
-Simple Login/Sign up Form
+Login/Sign up Form
+
+Tech Used:
+
+Html, Css, Javascript.
